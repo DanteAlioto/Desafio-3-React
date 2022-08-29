@@ -2,24 +2,24 @@ import React from "react";
 
 const Navbar = () => {
 
-let logo = <img src="React-Syntonize.png" width="100" />
+let logo = <img src="React-Syntonize.png" width="100" alt= "logo" />
 
 return(
 <nav class="navbar navbar-expand-lg bg-light">
     <div class="container-fluid">
-        <a class="navbar-brand" href="#">{logo}</a>
-        <span class="navbar-text">ReactEcommerce</span>
+        <a class="navbar-brand" href="index.html">{logo}</a>
+        <span class="navbar-text" href="index.html">ReactEcommerce</span>
 
         <div class="collapse navbar-collapse" id="navbarText">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item px-4">
-                    <a class="nav-link active px-4" href="#">Inicio</a>
+                    <a class="nav-link active px-4" href="index.html">Inicio</a>
                 </li>
                 <li class="nav-item px-4 ">
-                    <a class="nav-link px-4" href="#">Productos</a>
+                    <a class="nav-link px-4" href="index.html">Productos</a>
                 </li>
                 <li class="nav-item px-4">
-                    <a class="nav-link px-4" href="#">Contacto</a>
+                    <a class="nav-link px-4" href="index.html">Contacto</a>
                 </li>
             </ul>
         </div>
