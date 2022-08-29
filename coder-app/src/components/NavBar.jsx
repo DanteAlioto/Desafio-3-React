@@ -2,7 +2,7 @@ import React from "react";
 
 const Navbar = () => {
 
-let logo = <img src="React-Syntonize.png" width="100" alt= "logo" />
+let logo = <img src="logo192.png" width="80" alt= "logo" />
 
 return(
 <nav class="navbar navbar-expand-lg bg-light">
