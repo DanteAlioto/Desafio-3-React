@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DanteAlioto_SegundoDesafioReact/static/css/main.073c9b0a.css",
+    "main.js": "/DanteAlioto_SegundoDesafioReact/static/js/main.7b8415ad.js",
+    "index.html": "/DanteAlioto_SegundoDesafioReact/index.html",
+    "main.073c9b0a.css.map": "/DanteAlioto_SegundoDesafioReact/static/css/main.073c9b0a.css.map",
+    "main.7b8415ad.js.map": "/DanteAlioto_SegundoDesafioReact/static/js/main.7b8415ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.7b8415ad.js"
+  ]
+}
