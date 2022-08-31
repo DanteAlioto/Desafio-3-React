@@ -1,5 +1,5 @@
 import './App.css';
-import Main from './components/Main';
+import ItemListContainer from './components/ItemListContainer';
 import Navbar from './components/NavBar';
 
 function App() {
@@ -8,8 +8,7 @@ function App() {
     <div className='container'>
       <div className='row'>
         <Navbar/>
-        
-        <Main/>
+        <ItemListContainer greeting= "Hola"/>
       </div>
     </div>
   );

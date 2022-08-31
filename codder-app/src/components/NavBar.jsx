@@ -1,13 +1,12 @@
 import React from "react";
-
+import CartWidget from "./CartWidget"
 const Navbar = () => {
 
-let logo = <img src="logo192.png" width="80" alt= "logo" />
 
 return(
 <nav class="navbar navbar-expand-lg bg-light">
     <div class="container-fluid">
-        <a class="navbar-brand" href="index.html">{logo}</a>
+        <CartWidget/>
         <span class="navbar-text" href="index.html">ReactEcommerce</span>
 
         <div class="collapse navbar-collapse" id="navbarText">
