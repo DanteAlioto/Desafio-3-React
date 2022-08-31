@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/DanteAlioto_SegundoDesafioReact/static/css/main.073c9b0a.css",
-    "main.js": "/DanteAlioto_SegundoDesafioReact/static/js/main.59fe8a2c.js",
+    "main.js": "/DanteAlioto_SegundoDesafioReact/static/js/main.bff52da9.js",
     "index.html": "/DanteAlioto_SegundoDesafioReact/index.html",
     "main.073c9b0a.css.map": "/DanteAlioto_SegundoDesafioReact/static/css/main.073c9b0a.css.map",
-    "main.59fe8a2c.js.map": "/DanteAlioto_SegundoDesafioReact/static/js/main.59fe8a2c.js.map"
+    "main.bff52da9.js.map": "/DanteAlioto_SegundoDesafioReact/static/js/main.bff52da9.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.59fe8a2c.js"
+    "static/js/main.bff52da9.js"
   ]
 }
