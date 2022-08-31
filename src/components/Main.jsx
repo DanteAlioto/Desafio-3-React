@@ -1,9 +1,11 @@
 import React from "react";
+import Premain from "./Premain";
 
 const Main = () => {
     return(
         <div>
-            <p>hola  , soy un texto principal</p>
+            <Premain/>
+            <p>hola , soy un texto principal</p>
             <hr />
         </div>
     )
