@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/DanteAlioto_SegundoDesafioReact/static/css/main.073c9b0a.css",
-    "main.js": "/DanteAlioto_SegundoDesafioReact/static/js/main.bff52da9.js",
-    "index.html": "/DanteAlioto_SegundoDesafioReact/index.html",
-    "main.073c9b0a.css.map": "/DanteAlioto_SegundoDesafioReact/static/css/main.073c9b0a.css.map",
-    "main.bff52da9.js.map": "/DanteAlioto_SegundoDesafioReact/static/js/main.bff52da9.js.map"
+    "main.css": "/DanteAlioto/Desafio-3-React/static/css/main.073c9b0a.css",
+    "main.js": "/DanteAlioto/Desafio-3-React/static/js/main.b51376d9.js",
+    "index.html": "/DanteAlioto/Desafio-3-React/index.html",
+    "main.073c9b0a.css.map": "/DanteAlioto/Desafio-3-React/static/css/main.073c9b0a.css.map",
+    "main.b51376d9.js.map": "/DanteAlioto/Desafio-3-React/static/js/main.b51376d9.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.bff52da9.js"
+    "static/js/main.b51376d9.js"
   ]
 }
